@@ -26,6 +26,7 @@ Este projeto tem como objetivo demonstrar a construção de um controle financei
 - Saldo mensal
 - Despesas por categoria
 - Distribuição por forma de pagamento
+
 Este dashboard foi criado seguindo boas práticas de visualização de dados — com KPIs no topo para foco em alto nível e gráficos que facilitam comparação, tendência e distribuição dos indicadores financeiros.
 
 ## 🛠️ Ferramentas Utilizadas
