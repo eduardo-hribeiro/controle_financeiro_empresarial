@@ -29,6 +29,12 @@ Este projeto tem como objetivo demonstrar a construção de um controle financei
 
 Este dashboard foi criado seguindo boas práticas de visualização de dados — com KPIs no topo para foco em alto nível e gráficos que facilitam comparação, tendência e distribuição dos indicadores financeiros.
 
+## 📌 Principais Insights
+- O período apresentou prejuízo total de R$ 153.926,45.
+- Impostos foi a maior categoria de despesa.
+- Boleto foi a forma de pagamento mais utilizada em termos de valor.
+- O saldo mensal variou negativamente na primeira metade do ano, com recuperação posterior.
+
 ## 🛠️ Ferramentas Utilizadas
 - Google Sheets
 - Tabelas dinâmicas
@@ -36,7 +42,7 @@ Este dashboard foi criado seguindo boas práticas de visualização de dados —
 - Gráficos e dashboard
 
 ## 📷 Dashboard
-![dashboard](https://github.com/user-attachments/assets/c3d7582f-0cfd-48fc-bd4a-1a1bc4522111)
+![dashboard](dashboard.jpeg)
 
 ## 📈 Como Utilizar
 
