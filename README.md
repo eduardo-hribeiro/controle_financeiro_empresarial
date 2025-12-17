@@ -41,7 +41,7 @@ Este dashboard foi criado seguindo boas práticas de visualização de dados —
 ## 📈 Como Utilizar
 
 1. Abra a planilha em Google Sheets.
-2. Ou acesse diretamente pelo link: https://docs.google.com/spreadsheets/d/1sRkKmNU0VY_dGiO-bltNwx7yY265pC1a_QFyj52h09g/edit?usp=sharing
+2. Ou acesse diretamente pelo link, pois a planilha pode apresentar erro de formatação: https://docs.google.com/spreadsheets/d/1sRkKmNU0VY_dGiO-bltNwx7yY265pC1a_QFyj52h09g/edit?usp=sharing
 3. Revise a aba `analises` para entender as tabelas dinâmicas.
 4. Confira os gráficos e KPIs na aba `dashboards`.
 5. Faça comentários visuais para destacar insights importantes.
