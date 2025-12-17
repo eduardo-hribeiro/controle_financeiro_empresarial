@@ -46,6 +46,6 @@ Este dashboard foi criado seguindo boas práticas de visualização de dados —
 4. Confira os gráficos e KPIs na aba `dashboards`.
 5. Faça comentários visuais para destacar insights importantes.
 
-## 👤 Autor
+## 🧑‍💻 Autor
 Eduardo Ribeiro  
 Projeto desenvolvido para fins de portfólio e aprendizado em análise de dados.
